@@ -1,0 +1,6 @@
+This is the Onix's line.
+The number is 42.
+This is the third line with more text.
+This is an appended line.
+Another number: 100.
+Final line in the file.
